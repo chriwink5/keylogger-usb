@@ -1,5 +1,5 @@
 # keylogger-usb
-Usb with automatically logs every keystroek
+automatically log every keystroke when plugging in usb-stick
 
 
 
